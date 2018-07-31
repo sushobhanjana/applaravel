@@ -1,0 +1,98 @@
+<?php
+
+return [
+
+    /*
+    |--------------------------------------------------------------------------
+    | Pagination Language Lines
+    |--------------------------------------------------------------------------
+    |
+    | The following language lines are used by the paginator library to build
+    | the simple pagination links. You are free to change them to anything
+    | you want to customize your views to better match your application.
+    |
+    */
+
+    'company_login' => 'Business Login',
+    'email'   =>'Email',
+    'password'   =>'Password',
+    'cnf_password' =>'Confirm password',
+    'company_url'  =>'Business url',
+    'blank_error_msg' =>'Enter email id and password',
+    'sign_in' =>'Sign In',
+    'login'   =>'Login',
+    'forget_password' =>'Forgot your password?',
+    'registration'    =>'Sign up',
+    'back'            =>'Back',
+    'submit'          =>'Submit',
+    'update'          =>'Update',
+    'registration'    =>'Registration',
+    'register'        =>'Register',
+    'name'            =>'Name',
+    'surname'         =>'Surname',
+    'organization'    =>'Organization',
+    'for_individual'  =>'For individual use',
+    'for_company'     =>'For business use',
+    'sign_up'         =>'Sign up',
+    'confirm'         =>'Confirm',
+    'reset'           =>'Reset',
+    'company_url_found' =>'Business url is already registered',
+    'url_accepted'    =>'Business url is accepted',
+    'company_email_exist' =>'Business email is already registered',
+    'company_email_accepted' =>'Business email is accepted',
+    'company_reg_success' =>'Business is registered successfully',
+    'error'           =>'Sorry! there is an error',
+    'registration_email_subject' =>'Registration successful',
+    'credential_not_found' =>'Sorry! Your login credential not found',
+    'login_success'  =>'You have successfully login',
+    'logout'         =>'Logout',
+    'reset_password_msg'=>'Enter your e-mail address below to reset your password.',
+    'email_not_found' =>'Email id not found',
+    'otp_email_subject' =>'Forget password OTP',
+    'go'              =>'Go',
+    'email_found'     =>'Check your email and get OTP',
+    'otp'             =>'OTP',
+    'change_password_msg' =>'Change password',
+    'new_password'    =>'New password',
+    'wrong_otp'       =>'Wrong OTP',
+    'otp_expired'     =>'OTP is expired',
+    'otp_found'       =>'OTP is found',
+    'password_update_successful'=>'Password is updated successful',
+    'find_us'         =>'How did you find out about Unsilo.me?',
+    'select'          =>'Select',
+    'error_msg'       =>'Woops!! Request failed to processed',
+    'success_msg'     =>'Request successfully processed',
+    'otp_password_msg' =>'Enter your OTP here',
+    'file_ext_error'	=> 'Unknown file type.',
+    'alreadey_have_account' =>'Already have an account?',
+    'news'				=> 'News',
+    'news_post'			=> 'News Post',
+    'photo'				=> 'Photo',
+    'file'				=> 'Select File',
+    'news_headline'		=> 'News Headline',
+    'describe'			=> 'Describe',
+    'validity'			=> 'Validity',
+    'date_format'		=> 'dd-mm-yyyy',
+    'publish'			=> 'Publish',
+    'news_post_list'	=> 'All News',
+    'polls'				=> 'Polls',
+    'poll_title'      =>'Poll Title',
+    'poll_options'    =>'Poll Option',
+    'all_poll'        =>'All Poll',
+    'new_poll'        =>'New Poll',
+    'more_option'     =>'More option',
+    'validity'        =>'Valid Till',
+    'status'          =>'Status',
+    'action'          =>'Action',
+    'active'          =>'Active',
+    'inactive'        =>'Inactive',
+    'status_change_successful' =>'Status is changed successfully',   
+    'save'            =>'Save',
+    'update_poll'     =>'Update Poll',
+    'delete_msg'      =>'Are you sure to delete?',
+    'yes'             =>'Yes',
+    'cancel'          =>'Cancel',
+    'delete_success'  =>'Record is deleted successful',
+    'success_update_msg' =>'Poll is updated successfully'
+
+];
